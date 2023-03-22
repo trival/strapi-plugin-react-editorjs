@@ -13,13 +13,13 @@ const Wrapper = styled(Box)`
     background-color: #fff;
   }
   .codex-editor__redactor {
-    padding-bottom: 2rem !important;
+    padding-bottom: 4rem !important;
   }
   *:focus-visible {
     outline: none;
   }
   h1 {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     font-weight: bold;
   }
   h2 {
